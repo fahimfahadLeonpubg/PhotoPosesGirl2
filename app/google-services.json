@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "598588574157",
+    "firebase_url": "https://photoposesgirl2.firebaseio.com",
+    "project_id": "photoposesgirl2",
+    "storage_bucket": "photoposesgirl2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598588574157:android:105376b957887b1d",
+        "android_client_info": {
+          "package_name": "com.example.asus.photoposesgirl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598588574157-76tfp0v7djvfhvn2eq8cc5mkq5pr8p8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.photoposesgirl",
+            "certificate_hash": "e28e8f0780d267ffb18a1278803eeb5e7ff64b0e"
+          }
+        },
+        {
+          "client_id": "598588574157-jqbbspm16qnm61e78forg444hvc0sr9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnvQkPpd--m_1pUKtcq26hmaEzwunnAjs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598588574157-jqbbspm16qnm61e78forg444hvc0sr9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
